@@ -2523,12 +2523,13 @@ input, select, textarea {
 			width: 100%;
 		}
 
-			.image.fill img {
-				height: 100%;
-				left: 0;
-				position: absolute;
-				top: 185px;
-				width: 100%;
+		.image.fill img {
+			height: auto;
+   			left: 0;
+    		position: relative;
+    		top: 90px;
+    		width: 100%;
+   
 			}
 
 /* List */
